@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayush19107/Leet-Code/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ayush19107/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [1929-concatenation-of-array](https://github.com/ayush19107/Leet-Code/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/ayush19107/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayush19107/Leet-Code/tree/master/0169-majority-element) |
+| [3731-find-missing-elements](https://github.com/ayush19107/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayush19107/Leet-Code/tree/master/0169-majority-element) |
+| [3731-find-missing-elements](https://github.com/ayush19107/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
